@@ -1,4 +1,6 @@
+
 # 💫 About Me:
+
 👨‍💻 3rd Year CSE (Software & Big Data Analytics) Student @ SRM KTR<br>🚀 Passionate about data-driven solutions, algorithms, and software development<br>💡 Exploring Big Data Analytics, Artificial Intelligence, and Web Development<br>📚 Enhancing my expertise by working on real-world projects and deep-diving into emerging technologies<br>🔗 Let's collaborate on innovative projects and contribute to open-source!<br><br><br><br><br><br><br><br>
 
 
